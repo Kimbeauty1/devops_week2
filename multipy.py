@@ -1,5 +1,5 @@
 #function to multiply two numbers and display the outcome of the numbers
-
+#Icekid was here lol
 def get_multiplication():
     print("multiplication")
     number1 = 876347634
